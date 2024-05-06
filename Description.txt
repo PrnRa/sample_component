@@ -1,0 +1,1 @@
+Sample file to add the component in the yocto projetc
